@@ -92,7 +92,7 @@ git@github.com:8BitGinger/dollarBase.git
 
 https://www.veed.io/view/c9da3458-02bd-4e2d-a9c7-34341baaa0d0?panel=share
 
----
+**_ recorded with Screencastify edited with Veed.io _**
 
 <a id="tech"></a>
 
